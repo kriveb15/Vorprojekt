@@ -1,0 +1,16 @@
+04.10.2018
+----------------------------
+Lima-City Host als WordPress Instanz verwendet.
+Ganz einfach über eine Schaltfläche von Lima-City erstellt.
+https://gaimab14.lima-city.de/
+
+11.10.2018
+----------------------------
+->Wordpress testen, Funktionen testen
+->ManageWP Plugin installiert und mit WP-Page verknüpft
+
+25.10.2018
+----------------------------
+Wie funktioniert der ManageWP Worker?
+Wie der Name schon sagt, verwaltet er WP-Pages parallel.
+Plugin String Locator installiert, um an Codestellen zu kommen, die was über das Plugin Management preisgeben.
