@@ -1,0 +1,7 @@
+Es gibt einen Pfad zum Plug-In, der durch eine Funktion ( plugins_url($path, $plugin) ) 
+überprüft wird -> link-template.php
+
+Plug-Ins werden gefiltert in der Funktion editor_settings() -> class-wp-editor.php
+
+Aktive und gültige Plug-Ins können angezeigt werden ( wp_get_active_and_valid_plugins() ) -> load.php
+

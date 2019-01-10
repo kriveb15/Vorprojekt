@@ -1,0 +1,7 @@
+Probleme mit der Hostsuche - keins Funktioniert
+Web-Host nach 2 Stunden gefunden
+
+Seite mit der Schaltfläche von CloudAccess erstellt, Password und Username von WordPress über E-Mail erhalten
+Link zur Test-Seite:
+http://maualb15test.cloudaccess.host
+

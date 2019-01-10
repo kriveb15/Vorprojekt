@@ -1,0 +1,13 @@
+Vorgang von Aktualisierungen in ManageWP
+-einfach auf das "Update" Button klicken
+
+Updatemechanismus über FTP
+- Die neueste Version vom Plugin herunterladen
+- Webseite mit FTP-Client verbinden
+- /wp-content/plugins/ -> alle installierten Plugins
+- den Folder vom Plugin, das man aktualisieren will umbenennen, herunterladenn(backup) 
+und dann von der Webseite löschen (Plugin wird beim WordPress-Admin deaktiviert)
+- die neue Version hochladen und beim WordPress-Admin aktivieren
+
+Wie arbeitet ManageWP mit WordPress?
+Mit ManageWP kann man die Webseiten verwalten, aktualisieren, etc.
